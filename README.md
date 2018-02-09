@@ -22,3 +22,12 @@ We also reccomend the following plugins:
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - []
 
+# Javascript
+
+### React
+* [Hello World - React Guide](https://reactjs.org/docs/hello-world.html)
+
+### GraphQL
+* [How to GraphQL](https://www.howtographql.com/)
+* [GraphQL Documentation](http://graphql.org/learn/)
+
