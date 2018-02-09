@@ -10,6 +10,7 @@ will help you fall in love with VS Code even faster.
 
 * [Visual Studio Code Can Do That?](http://vscodecandothat.com): A great site of
   some non-obvious features of VS Code.
+* [LevelUpTuts: VS Code](https://www.youtube.com/watch?v=4q1tD39Mk_A&list=PLLnpHn493BHHkdpK8E37x_d5cOZBr4GlL)
 
 We also recommend the following plugins:
 
@@ -27,6 +28,8 @@ Here are some specific language settings and extensions we like:
 
 ### HTML
 
+VS Code has great support for writing HTML!
+
 * [IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion#overview)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
@@ -37,10 +40,12 @@ VS Code has a
 Be sure to check it out. They also cover
 [debugging in Node](https://code.visualstudio.com/docs/nodejs/nodejs-debugging).
 
-You can also do frontend JavaScript debugging in VS Code. Check out
+There's also great front JavaScript support in VS Code. Check out the
+[documentation about React and VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+and
 [this blog post about debugging React in VS Code](https://medium.com/@auchenberg/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f).
 
-A reference of popular VS Code debugging recipies is
+A reference of popular VS Code debugging recipes is
 [here](https://code.visualstudio.com/docs/nodejs/debugging-recipes).
 
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint):
@@ -53,19 +58,30 @@ A reference of popular VS Code debugging recipies is
 
 ### TypeScript
 
-* # [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-  # Developer Tools
-  ### Git
-  Some handy resources to get you up to speed with Git and ready for your first
-  pull request.
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 
-- [Try Git](https://try.github.io/levels/1/challenges/1)
+## Developer Tools
+
+## Git
+
+Some handy resources to get you up to speed with Git and ready for your first
+pull request.
+
+* [Try Git](https://try.github.io/levels/1/challenges/1)
 
 ## Terminal
 
-Ways to customize your terminal so its prettier and more efficient 😍
+We're big fans of terminal customization. If you aren't familiar or particularly
+attached a certain shell, we recommend you check out
+[Fish Shell](https://fishshell.com/)! It has very nice autocompletion and
+highlighting.
 
-* [Fish Shell](https://fishshell.com/)
+Your shell can be customized with what are called **dotfiles**—files usually
+prepended with a `.` (meaning that they're hidden files). People put things in
+their dotfiles and share them with other people, so much of your dotfiles will
+be taken from other places on the internet. Read
+[this great article](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+by Zach Holman for more info about dotfiles.
 
 ## Javascript
 
