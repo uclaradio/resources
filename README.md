@@ -53,4 +53,27 @@ A reference of popular VS Code debugging recipies is
 
 ### TypeScript
 
-* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+* # [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+  # Developer Tools
+  ### Git
+  Some handy resources to get you up to speed with Git and ready for your first
+  pull request.
+
+- [Try Git](https://try.github.io/levels/1/challenges/1)
+
+## Terminal
+
+Ways to customize your terminal so its prettier and more efficient 😍
+
+* [Fish Shell](https://fishshell.com/)
+
+## Javascript
+
+### React
+
+* [Hello World - React Guide](https://reactjs.org/docs/hello-world.html)
+
+### GraphQL
+
+* [How to GraphQL](https://www.howtographql.com/)
+* [GraphQL Documentation](http://graphql.org/learn/)
