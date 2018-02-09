@@ -28,13 +28,28 @@ Here are some specific language settings and extensions we like:
 ### HTML
 
 * [IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion#overview)
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 ### JavaScript
+
+VS Code has a
+[whole section of documentation of Node.js](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)!
+Be sure to check it out. They also cover
+[debugging in Node](https://code.visualstudio.com/docs/nodejs/nodejs-debugging).
+
+You can also do frontend JavaScript debugging in VS Code. Check out
+[this blog post about debugging React in VS Code](https://medium.com/@auchenberg/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f).
+
+A reference of popular VS Code debugging recipies is
+[here](https://code.visualstudio.com/docs/nodejs/debugging-recipes).
 
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint):
   Integrating linting in VS Code.
 * [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+* [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+* [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+* [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
 
 ### TypeScript
 
