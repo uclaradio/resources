@@ -11,6 +11,7 @@ will help you fall in love with VS Code even faster.
 * [Visual Studio Code Can Do That?](http://vscodecandothat.com): A great site of
   some non-obvious features of VS Code.
 * [LevelUpTuts: VS Code](https://www.youtube.com/watch?v=4q1tD39Mk_A&list=PLLnpHn493BHHkdpK8E37x_d5cOZBr4GlL)
+* [Syntax: Why is everyone switching to VS Code?](https://syntax.fm/show/012/why-is-everyone-switching-to-vs-code)
 
 We also recommend the following plugins:
 
